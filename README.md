@@ -29,7 +29,7 @@ My name is Lorenz, I am a fullstack web developer with a passion for problem-sol
 - Scrum/Agile
 - Figma
 
-### Reach me on
+### Find me on
 
 - [LinkedIn](https://www.linkedin.com/in/lorenz-a-mueller/)
 
